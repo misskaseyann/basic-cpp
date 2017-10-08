@@ -1,0 +1,4 @@
+# Ignore all CMake files. #
+/cmake-build-debug
+CMakeLists.txt
+.idea
